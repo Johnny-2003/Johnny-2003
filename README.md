@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnny-2003
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning computing and data science at the University of Western Australia
+- 🌱 I’m currently studying computing and data science at the University of Western Australia
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me johnson02che@gmail.com
 - 😄 Pronouns: Mr
